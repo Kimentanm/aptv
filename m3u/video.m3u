@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, Video1
+https://img.whalenas.com:283/file/video1.mp4
+#EXTINF:-1, Video2
+https://img.whalenas.com:283/file/video2.mp4
+#EXTINF:-1, Video3
+https://img.whalenas.com:283/file/video3.mp4
