@@ -750,6 +750,10 @@ http://live.aptvapp.com/sxg.php?id=yggwgq_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="蜀小果IPV6",优购物
 http://live.aptvapp.com/sxg.php?id=ygw_4000
 
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="歌华有线",CCTV16-4K
+http://live.aptvapp.com/ghyx.php?id=CCTV16UHD_25000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="歌华有线",CCTV-4K
+http://live.aptvapp.com/ghyx.php?id=CCTV4K_25000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="歌华有线",CCTV1
 http://live.aptvapp.com/ghyx.php?id=CCTV1HD_6000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="歌华有线",CCTV2
