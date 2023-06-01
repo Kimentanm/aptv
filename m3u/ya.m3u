@@ -3,6 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
 
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg?1683371602" group-title="英雄联盟", Uzi
+http://live.aptvapp.com/live/huya/100
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/bd/8c8dc2071fca5f917cc84372eed4cb_180_135.jpg?1585727771" group-title="英雄联盟", 神超
 http://live.aptvapp.com/live/huya/102411?quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/16/3ffb7dfd32674a6a571067de73c8ca_180_135.jpg?1513927657" group-title="英雄联盟", 八路奶粉zzz
