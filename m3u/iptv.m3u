@@ -97,13 +97,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/32212278
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视-4K",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://live.aptvapp.com/tvb.php?id=0
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
-http://live.aptvapp.com/tvb.php?id=1
-#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png" group-title="港澳台",無線新聞台
-http://live.aptvapp.com/tvb.php?id=2
-
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视IPV6",CCTV2
@@ -756,6 +749,13 @@ http://live.aptvapp.com/sxg.php?id=jygw_4000
 http://live.aptvapp.com/sxg.php?id=yggwgq_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/优购物.png" group-title="蜀小果IPV6",优购物
 http://live.aptvapp.com/sxg.php?id=ygw_4000
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://live.aptvapp.com/tvb.php?id=0
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
+http://live.aptvapp.com/tvb.php?id=1
+#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png" group-title="港澳台",無線新聞台
+http://live.aptvapp.com/tvb.php?id=2
 
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="影视",HBO家庭影院
 http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
