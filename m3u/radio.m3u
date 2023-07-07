@@ -1297,3 +1297,6 @@ http://live.cooltv.top/tv/hz.php?id=23
 http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2022/0114/20220114060455.jpeg" group-title="音乐广播",崇州电台年代音乐1022
 http://live.cooltv.top/tv/cdgb.php?id=433-1315
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan985.png" group-title="广东",佛山电台FM98.5
+https://play.radiofoshan.com.cn/live/1400389414_BSID_41_audio.m3u8
