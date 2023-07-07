@@ -1300,3 +1300,7 @@ http://live.cooltv.top/tv/cdgb.php?id=433-1315
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan985.png" group-title="广东",佛山电台FM98.5
 https://play.radiofoshan.com.cn/live/1400389414_BSID_41_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan924.png" group-title="广东",佛山电台飞跃924
+https://play.radiofoshan.com.cn/live/1400389414_BSID_42_audio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan94-6.png" group-title="广东",佛山电台FM94.6
+https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
