@@ -1298,9 +1298,131 @@ http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2022/0114/20220114060455.jpeg" group-title="音乐广播",崇州电台年代音乐1022
 http://live.cooltv.top/tv/cdgb.php?id=433-1315
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan985.png" group-title="广东",佛山电台FM98.5
-https://play.radiofoshan.com.cn/live/1400389414_BSID_41_audio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan924.png" group-title="广东",佛山电台飞跃924
-https://play.radiofoshan.com.cn/live/1400389414_BSID_42_audio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/zhibo-fm/fu-shan94-6.png" group-title="广东",佛山电台FM94.6
-https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8
+#EXTINF:-1 tvg-name="惠州音乐广播" tvg-id="惠州音乐广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/b15b302a325603c26699ea6b39272808.png" group-title="📻·广东",惠州音乐广播
+https://rscdn-qn-i.ajmide.com/r_3119/3119.m3u8
+#EXTINF:-1 tvg-name="惠州综合广播" tvg-id="惠州综合广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/6bc5579d50dc3ff0d1b973dccd9230d8.png" group-title="📻·广东",惠州综合广播
+https://rscdn-qn-i.ajmide.com/r_3117/3117.m3u8
+#EXTINF:-1 tvg-name="惠州经济环保广播" tvg-id="惠州经济环保广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/596f23dc45e00da9ca9fb48b1417de73.png" group-title="📻·广东",惠州经济环保广播
+https://rscdn-qn-i.ajmide.com/r_3118/3118.m3u8
+#EXTINF:-1 tvg-name="广州汽车音乐电台" tvg-id="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="📻·广东",广州汽车音乐电台
+https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
+#EXTINF:-1 tvg-name="广州新闻资讯广播" tvg-id="广州新闻资讯广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29881-1GLprp_400x400.jpg" group-title="📻·广东",广州新闻资讯广播
+https://rscdn-qn-i.ajmide.com/r_1087/1087.m3u8
+#EXTINF:-1 tvg-name="广州交通广播" tvg-id="广州交通广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29793-1GGlcR_800x800.jpg" group-title="📻·广东",广州交通广播
+https://rscdn-qn-i.ajmide.com/r_1089/1089.m3u8
+#EXTINF:-1 tvg-name="广州MYFM880" tvg-id="广州MYFM880" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29895-1Hu2Ww_640x640.jpg" group-title="📻·广东",广州MYFM880
+https://rscdn-qn-i.ajmide.com/r_1090/1090.m3u8
+#EXTINF:-1 tvg-name="广州MYFM880" tvg-id="广州MYFM880" tvg-logo="https://pic.qtfm.cn/2023/0519/20230519102904.png" group-title="📻·广东",广州MYFM880
+http://ls.qingting.fm/live/52712.m3u8
+#EXTINF:-1 tvg-name="广东音乐之声" tvg-id="广东音乐之声" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29697-1GGm7e_640x640.jpg" group-title="📻·广东",广东音乐之声
+https://rscdn-qn-i.ajmide.com/r_1191/1191.m3u8
+#EXTINF:-1 tvg-name="广东股市广播" tvg-id="广东股市广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29711-1GFlCo_270x270.jpg" group-title="📻·广东",广东股市广播
+https://rscdn-qn-i.ajmide.com/r_1195/1195.m3u8
+#EXTINF:-1 tvg-name="广东珠江经济台 FM97.4" tvg-id="广东珠江经济台 FM97.4" tvg-logo="https://img.gdtv.cn/image/202109/0.986862757622444235b2e2f050a9656a6OSS1630576753.png" group-title="📻·广东",广东珠江经济台 FM97.4
+http://ls.qingting.fm/live/1259.m3u8
+#EXTINF:-1 tvg-name="广东珠江经济台" tvg-id="广东珠江经济台" tvg-logo="https://upload-qn.ajmide.com/p/image/202004/08/EBytWZNyyY1586328833666_1915x1915.png" group-title="📻·广东",广东珠江经济台
+https://rscdn-qn-i.ajmide.com/r_1190/1190.m3u8
+#EXTINF:-1 tvg-name="广东珠江之声" tvg-id="广东珠江之声" tvg-logo="https://upload-qn.ajmide.com/p/image/202208/01/67-pRP6HZFraF1659360027084_271x271.png" group-title="📻·广东",广东珠江之声
+https://rscdn-qn-i.ajmide.com/r_2913/2913.m3u8
+#EXTINF:-1 tvg-name="广东新闻广播" tvg-id="广东新闻广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29696-1GFgkW_250x250.jpg" group-title="📻·广东",广东新闻广播
+https://rscdn-qn-i.ajmide.com/r_1189/1189.m3u8
+#EXTINF:-1 tvg-name="广东新闻 FM91.4" tvg-id="广东新闻 FM91.4" tvg-logo="https://img.gdtv.cn/image/202109/0.03748908070393519628f4c932fb282e942OSS1630576729.png" group-title="📻·广东",广东新闻 FM91.4
+http://ls.qingting.fm/live/1254.m3u8
+#EXTINF:-1 tvg-name="广东城市之声" tvg-id="广东城市之声" tvg-logo="https://upload-qn.ajmide.com/p/image/202004/17/mzCFQWXpEk1587128629511_1885x1885.jpg" group-title="📻·广东",广东城市之声
+https://rscdn-qn-i.ajmide.com/r_1192/1192.m3u8
+#EXTINF:-1 tvg-name="广东南方生活广播" tvg-id="广东南方生活广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29713-1GFjRj_200x200.png" group-title="📻·广东",广东南方生活广播
+https://rscdn-qn-i.ajmide.com/r_1193/1193.m3u8
+#EXTINF:-1 tvg-name="佛山飞跃924" tvg-id="佛山飞跃924" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtFwl.png" group-title="📻·广东",佛山飞跃924
+https://rscdn-qn-i.ajmide.com/r_1201/1201.m3u8
+#EXTINF:-1 tvg-name="佛山电台频率FM98.5" tvg-id="佛山电台频率FM98.5" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtIrz.png" group-title="📻·广东",佛山电台频率FM98.5
+https://rscdn-qn-i.ajmide.com/r_1388/1388.m3u8
+#EXTINF:-1 tvg-name="佛山电台频率FM94.6" tvg-id="佛山电台频率FM94.6" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtInM.png" group-title="📻·广东",佛山电台频率FM94.6
+https://rscdn-qn-i.ajmide.com/r_1387/1387.m3u8
+#EXTINF:-1 tvg-name="佛山电台频率FM88.3" tvg-id="佛山电台频率FM88.3" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtIkO.png" group-title="📻·广东",佛山电台频率FM88.3
+https://rscdn-qn-i.ajmide.com/r_1390/1390.m3u8
+#EXTINF:-1 tvg-name="佛山电台顺德广播" tvg-id="佛山电台顺德广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtIgL.png" group-title="📻·广东",佛山电台顺德广播
+https://rscdn-qn-i.ajmide.com/r_1386/1386.m3u8
+#EXTINF:-1 tvg-name="佛山电台FM906" tvg-id="佛山电台FM906" tvg-logo="https://img-ossimg-qn.ajmide.com/program/26455-1F54ZY_350x350.jpg" group-title="📻·广东",佛山电台FM906
+https://rscdn-qn-i.ajmide.com/r_1389/1389.m3u8
+#EXTINF:-1 tvg-name="鹤山电台" tvg-id="鹤山电台" tvg-logo="https://upload-qn.ajmide.com/p/image/202108/10/200-byQknw7dZC1628599991414_499x499.jpg" group-title="📻·广东",鹤山电台
+https://rscdn-qn-i.ajmide.com/r_2915/2915.m3u8
+#EXTINF:-1 tvg-name="羊城交通台" tvg-id="羊城交通台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/channel-1CzUbk.jpg" group-title="📻·广东",羊城交通台
+https://rscdn-qn-i.ajmide.com/r_1758/1758.m3u8
+#EXTINF:-1 tvg-name="粤港澳大湾区之声" tvg-id="粤港澳大湾区之声" tvg-logo="https://img-ossimg-qn.ajmide.com/program/33814-1I7axH_500x500.jpg" group-title="📻·广东",粤港澳大湾区之声
+https://rscdn-qn-i.ajmide.com/r_2407/2407.m3u8
+#EXTINF:-1 tvg-name="珠海电台先锋951" tvg-id="珠海电台先锋951" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29884-1GLsjB_640x640.jpg" group-title="📻·广东",珠海电台先锋951
+https://rscdn-qn-i.ajmide.com/r_1421/1421.m3u8
+#EXTINF:-1 tvg-name="澄海人民广播电台" tvg-id="澄海人民广播电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/30011-1HxH76_200x200.png" group-title="📻·广东",澄海人民广播电台
+https://rscdn-qn-i.ajmide.com/r_1687/1687.m3u8
+#EXTINF:-1 tvg-name="深圳龙岗991" tvg-id="深圳龙岗991" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29922-1GFxv3_640x640.jpg" group-title="📻·广东",深圳龙岗991
+https://rscdn-qn-i.ajmide.com/r_1385/1385.m3u8
+#EXTINF:-1 tvg-name="深圳音乐广播" tvg-id="深圳音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="📻·广东",深圳音乐广播
+https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
+#EXTINF:-1 tvg-name="深圳生活广播" tvg-id="深圳生活广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29942-1GFNrf_615x615.jpg" group-title="📻·广东",深圳生活广播
+https://rscdn-qn-i.ajmide.com/r_1382/1382.m3u8
+#EXTINF:-1 tvg-name="深圳动听102" tvg-id="深圳动听102" tvg-logo="https://upload-qn.ajmide.com/p/image/202011/07/200-AZydpieF4E1604681401249_521x521.jpg" group-title="📻·广东",深圳动听102
+http://rscdn-qn-i.ajmide.com/r_1378/1378.m3u8
+#EXTINF:-1 tvg-name="深圳先锋898" tvg-id="深圳先锋898" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29868-1GIZFO_640x639.jpg" group-title="📻·广东",深圳先锋898
+https://rscdn-qn-i.ajmide.com/r_1379/1379.m3u8
+#EXTINF:-1 tvg-name="深圳交通广播" tvg-id="深圳交通广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29920-1GFxpE_591x591.jpg" group-title="📻·广东",深圳交通广播
+https://rscdn-qn-i.ajmide.com/r_1381/1381.m3u8
+#EXTINF:-1 tvg-name="深圳U-Radio" tvg-id="深圳U-Radio" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29827-1GIYRC_640x640.jpg" group-title="📻·广东",深圳U-Radio
+https://rscdn-qn-i.ajmide.com/r_1196/1196.m3u8
+#EXTINF:-1 tvg-name="汕头音乐之声" tvg-id="汕头音乐之声" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29996-1HoWa5_500x500.jpg" group-title="📻·广东",汕头音乐之声
+https://rscdn-qn-i.ajmide.com/r_1661/1661.m3u8
+#EXTINF:-1 tvg-name="汕头综合广播" tvg-id="汕头综合广播" tvg-logo="https://upload-qn.ajmide.com/p/image/202011/07/200-YXaGKkkm2A1604679408573_599x599.jpg" group-title="📻·广东",汕头综合广播
+https://rscdn-qn-i.ajmide.com/r_1663/1663.m3u8
+#EXTINF:-1 tvg-name="梅州新闻台" tvg-id="梅州新闻台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1FWIxX.png" group-title="📻·广东",梅州新闻台
+https://rscdn-qn-i.ajmide.com/r_1466/1466.m3u8
+#EXTINF:-1 tvg-name="惠州音乐广播" tvg-id="惠州音乐广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/b15b302a325603c26699ea6b39272808.png" group-title="📻·广东",惠州音乐广播
+https://rscdn-qn-i.ajmide.com/r_3119/3119.m3u8
+#EXTINF:-1 tvg-name="惠州综合广播" tvg-id="惠州综合广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/6bc5579d50dc3ff0d1b973dccd9230d8.png" group-title="📻·广东",惠州综合广播
+https://rscdn-qn-i.ajmide.com/r_3117/3117.m3u8
+#EXTINF:-1 tvg-name="惠州经济环保广播" tvg-id="惠州经济环保广播" tvg-logo="https://upload-qn.ajmide.com/image/2023/05/22/596f23dc45e00da9ca9fb48b1417de73.png" group-title="📻·广东",惠州经济环保广播
+https://rscdn-qn-i.ajmide.com/r_3118/3118.m3u8
+#EXTINF:-1 tvg-name="广州汽车音乐电台" tvg-id="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="📻·广东",广州汽车音乐电台
+https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
+#EXTINF:-1 tvg-name="广州新闻资讯广播" tvg-id="广州新闻资讯广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29881-1GLprp_400x400.jpg" group-title="📻·广东",广州新闻资讯广播
+https://rscdn-qn-i.ajmide.com/r_1087/1087.m3u8
+#EXTINF:-1 tvg-name="广州交通电台 FM106.1" tvg-id="广州交通电台 FM106.1" tvg-logo="https://img.gdtv.cn/image/202109/0.341386404726067965bdf60610018fcd28OSS1630576805.png" group-title="📻·广东",广州交通电台 FM106.1
+http://ls.qingting.fm/live/4955.m3u8
+#EXTINF:-1 tvg-name="广州交通广播" tvg-id="广州交通广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29793-1GGlcR_800x800.jpg" group-title="📻·广东",广州交通广播
+https://rscdn-qn-i.ajmide.com/r_1089/1089.m3u8
+#EXTINF:-1 tvg-name="广州MYFM880" tvg-id="广州MYFM880" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29895-1Hu2Ww_640x640.jpg" group-title="📻·广东",广州MYFM880
+https://rscdn-qn-i.ajmide.com/r_1090/1090.m3u8
+#EXTINF:-1 tvg-name="广东音乐之声 FM99.3" tvg-id="广东音乐之声 FM99.3" tvg-logo="https://img.gdtv.cn/image/202109/0.070466864478565984968adb1bd6e36150OSS1630576772.png" group-title="📻·广东",广东音乐之声 FM99.3
+http://ls.qingting.fm/live/1260.m3u8
+#EXTINF:-1 tvg-name="广东音乐之声" tvg-id="广东音乐之声" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29697-1GGm7e_640x640.jpg" group-title="📻·广东",广东音乐之声
+https://rscdn-qn-i.ajmide.com/r_1191/1191.m3u8
+#EXTINF:-1 tvg-name="广东股市广播" tvg-id="广东股市广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29711-1GFlCo_270x270.jpg" group-title="📻·广东",广东股市广播
+https://rscdn-qn-i.ajmide.com/r_1195/1195.m3u8
+#EXTINF:-1 tvg-name="广东珠江经济台 FM97.4" tvg-id="广东珠江经济台 FM97.4" tvg-logo="https://img.gdtv.cn/image/202109/0.986862757622444235b2e2f050a9656a6OSS1630576753.png" group-title="📻·广东",广东珠江经济台 FM97.4
+http://ls.qingting.fm/live/1259.m3u8
+#EXTINF:-1 tvg-name="广东珠江经济台" tvg-id="广东珠江经济台" tvg-logo="https://upload-qn.ajmide.com/p/image/202004/08/EBytWZNyyY1586328833666_1915x1915.png" group-title="📻·广东",广东珠江经济台
+https://rscdn-qn-i.ajmide.com/r_1190/1190.m3u8
+#EXTINF:-1 tvg-name="广东珠江之声" tvg-id="广东珠江之声" tvg-logo="https://upload-qn.ajmide.com/p/image/202208/01/67-pRP6HZFraF1659360027084_271x271.png" group-title="📻·广东",广东珠江之声
+https://rscdn-qn-i.ajmide.com/r_2913/2913.m3u8
+#EXTINF:-1 tvg-name="广东新闻 FM91.4" tvg-id="广东新闻 FM91.4" tvg-logo="https://img.gdtv.cn/image/202109/0.03748908070393519628f4c932fb282e942OSS1630576729.png" group-title="📻·广东",广东新闻 FM91.4
+http://ls.qingting.fm/live/1254.m3u8
+#EXTINF:-1 tvg-name="广东新闻广播" tvg-id="广东新闻广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29696-1GFgkW_250x250.jpg" group-title="📻·广东",广东新闻广播
+https://rscdn-qn-i.ajmide.com/r_1189/1189.m3u8
+#EXTINF:-1 tvg-name="广东文体广播" tvg-id="广东文体广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29712-1GFjze_488x488.jpg" group-title="📻·广东",广东文体广播
+https://rscdn-qn-i.ajmide.com/r_1194/1194.m3u8
+#EXTINF:-1 tvg-name="广东城市之声" tvg-id="广东城市之声" tvg-logo="https://upload-qn.ajmide.com/p/image/202004/17/mzCFQWXpEk1587128629511_1885x1885.jpg" group-title="📻·广东",广东城市之声
+https://rscdn-qn-i.ajmide.com/r_1192/1192.m3u8
+#EXTINF:-1 tvg-name="广东南方生活广播" tvg-id="广东南方生活广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29713-1GFjRj_200x200.png" group-title="📻·广东",广东南方生活广播
+https://rscdn-qn-i.ajmide.com/r_1193/1193.m3u8
+#EXTINF:-1 tvg-name="佛山飞跃924" tvg-id="佛山飞跃924" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtFwl.png" group-title="📻·广东",佛山飞跃924
+https://rscdn-qn-i.ajmide.com/r_1201/1201.m3u8
+#EXTINF:-1 tvg-name="佛山电台频率FM98.5" tvg-id="佛山电台频率FM98.5" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtIrz.png" group-title="📻·广东",佛山电台频率FM98.5
+https://rscdn-qn-i.ajmide.com/r_1388/1388.m3u8
+#EXTINF:-1 tvg-name="佛山电台频率FM94.6" tvg-id="佛山电台频率FM94.6" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtInM.png" group-title="📻·广东",佛山电台频率FM94.6
+https://rscdn-qn-i.ajmide.com/r_1387/1387.m3u8
+#EXTINF:-1 tvg-name="佛山电台频率FM88.3" tvg-id="佛山电台频率FM88.3" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtIkO.png" group-title="📻·广东",佛山电台频率FM88.3
+https://rscdn-qn-i.ajmide.com/r_1390/1390.m3u8
+#EXTINF:-1 tvg-name="佛山电台顺德广播" tvg-id="佛山电台顺德广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EtIgL.png" group-title="📻·广东",佛山电台顺德广播
+https://rscdn-qn-i.ajmide.com/r_1386/1386.m3u8
+#EXTINF:-1 tvg-name="佛山电台FM906" tvg-id="佛山电台FM906" tvg-logo="https://img-ossimg-qn.ajmide.com/program/26455-1F54ZY_350x350.jpg" group-title="📻·广东",佛山电台FM906
+https://rscdn-qn-i.ajmide.com/r_1389/1389.m3u8
+#EXTINF:-1 tvg-name="中山Hapyy Radio 888" tvg-id="中山Hapyy Radio 888" tvg-logo="https://img-ossimg-qn.ajmide.com/program/channel-1HsBwG_329x329.png" group-title="📻·广东",中山Hapyy Radio 888
+https://rscdn-qn-i.ajmide.com/r_2191/2191.m3u8
