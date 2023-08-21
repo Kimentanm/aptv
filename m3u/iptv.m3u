@@ -91,6 +91,8 @@ http://live.aptvapp.com/bestv.php?id=hainanwshd8m/8000000
 http://live.aptvapp.com/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
 http://live.aptvapp.com/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="卫视IPV4",五星体育
+http://live.aptvapp.com/bestv.php?id=wxtyhd8m/8000000
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视-4K",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
