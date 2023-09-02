@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://img.whalenas.com:283/file/e.xml.gz"
+#EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
@@ -754,13 +754,6 @@ http://live.aptvapp.com/sxg.php?id=jygw_4000
 http://live.aptvapp.com/sxg.php?id=yggwgq_4000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/优购物.png" group-title="蜀小果IPV6",优购物
 http://live.aptvapp.com/sxg.php?id=ygw_4000
-
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="港澳台",翡翠台
-http://live.aptvapp.com/tvb.php?id=0
-#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.eu.org/logo/J2.png" group-title="港澳台",J2
-http://live.aptvapp.com/tvb.php?id=1
-#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.112114.eu.org/logo/无线新闻台.png" group-title="港澳台",無線新聞台
-http://live.aptvapp.com/tvb.php?id=2
 
 #EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.eu.org/logo/HBO.png" group-title="影视",HBO家庭影院
 http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
