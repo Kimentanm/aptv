@@ -1,7 +1,4 @@
 # APTV
-AppleWatch 专用直播源
-https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iwatch.m3u
-
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 
 支持iOS、iPadOS、tvOS、watchOS、macOS（已上Testflight）
