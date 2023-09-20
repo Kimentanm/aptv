@@ -4,95 +4,95 @@
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV4",CCTV16-4K
-http://live.aptvapp.com/bestv.php?id=cctv16hd4k/15000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视IPV4",CCTV-4K
-http://live.aptvapp.com/bestv.php?id=cctv4k/15000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv4k/15000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV4",CCTV1
-http://live.aptvapp.com/bestv.php?id=cctv1hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视IPV4",CCTV2
-http://live.aptvapp.com/bestv.php?id=cctv2hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视IPV4",CCTV3
-http://live.aptvapp.com/bestv.php?id=cctv38m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv38m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视IPV4",CCTV4
-http://live.aptvapp.com/bestv.php?id=cctv4hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视IPV4",CCTV5
-http://live.aptvapp.com/bestv.php?id=cctv58m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv58m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视IPV4",CCTV5+
-http://live.aptvapp.com/bestv.php?id=cctv5phd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv5phd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视IPV4",CCTV6
-http://live.aptvapp.com/bestv.php?id=cctv6hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv6hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视IPV4",CCTV7
-http://live.aptvapp.com/bestv.php?id=cctv7hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv7hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视IPV4",CCTV8
-http://live.aptvapp.com/bestv.php?id=cctv8hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视IPV4",CCTV9
-http://live.aptvapp.com/bestv.php?id=cctv9hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视IPV4",CCTV10
-http://live.aptvapp.com/bestv.php?id=cctv10hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv10hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视IPV4",CCTV11
-http://live.aptvapp.com/bestv.php?id=cctv11hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv11hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视IPV4",CCTV12
-http://live.aptvapp.com/bestv.php?id=cctv12hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv12hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视IPV4",CCTV13
-http://live.aptvapp.com/bestv.php?id=cctv13xwhd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv13xwhd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视IPV4",CCTV14
-http://live.aptvapp.com/bestv.php?id=cctvsehd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctvsehd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视IPV4",CCTV15
-http://live.aptvapp.com/bestv.php?id=cctv15hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV4",CCTV16
-http://live.aptvapp.com/bestv.php?id=cctv16hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视IPV4",CCTV17
-http://live.aptvapp.com/bestv.php?id=cctv17hd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cctv17hd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
-http://live.aptvapp.com/bestv.php?id=zjwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
-http://live.aptvapp.com/bestv.php?id=bjwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=bjwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.eu.org/logo/辽宁卫视.png" group-title="卫视IPV4",辽宁卫视
-http://live.aptvapp.com/bestv.php?id=lnwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=lnwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png" group-title="卫视IPV4",安徽卫视
-http://live.aptvapp.com/bestv.php?id=ahwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=ahwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
-http://live.aptvapp.com/bestv.php?id=jswshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=jswshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="卫视IPV4",东方卫视
-http://live.aptvapp.com/bestv.php?id=dfwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=dfwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="东南卫视" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
-http://live.aptvapp.com/bestv.php?id=dnwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=dnwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
-http://live.aptvapp.com/bestv.php?id=hunanwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=hunanwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视IPV4",湖北卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视IPV4",广东卫视
-http://live.aptvapp.com/bestv.php?id=gdwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=gdwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="卫视IPV4",广西卫视
-http://live.aptvapp.com/bestv.php?id=gxwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=gxwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
-http://live.aptvapp.com/bestv.php?id=szwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=szwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="四川卫视" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
-http://live.aptvapp.com/bestv.php?id=scwshd/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=scwshd/8000000
 #EXTINF:-1,tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="卫视IPV4",山东卫视
-http://live.aptvapp.com/bestv.php?id=sdws8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=sdws8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
-http://live.aptvapp.com/bestv.php?id=hnwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=hnwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="卫视IPV4",河北卫视
-http://live.aptvapp.com/bestv.php?id=hbwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=hbwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="江西卫视" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png" group-title="卫视IPV4",江西卫视
-http://live.aptvapp.com/bestv.php?id=jxws8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=jxws8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="卫视IPV4",天津卫视
-http://live.aptvapp.com/bestv.php?id=tjwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=tjwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="卫视IPV4",重庆卫视
-http://live.aptvapp.com/bestv.php?id=cqws8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=cqws8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
-http://live.aptvapp.com/bestv.php?id=hljwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=hljwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="卫视IPV4",吉林卫视
-http://live.aptvapp.com/bestv.php?id=jlwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=jlwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="海南卫视" tvg-logo="https://epg.112114.eu.org/logo/海南卫视.png" group-title="卫视IPV4",海南卫视
-http://live.aptvapp.com/bestv.php?id=hainanwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="云南卫视" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png" group-title="卫视IPV4",云南卫视
-http://live.aptvapp.com/bestv.php?id=ynwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
-http://live.aptvapp.com/bestv.php?id=gzwshd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV4",五星体育
-http://live.aptvapp.com/bestv.php?id=wxtyhd8m/8000000
+http://live.aptvapp.com/PLTV/bestv.php?id=wxtyhd8m/8000000
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视-4K",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
