@@ -1,7 +1,7 @@
 # APTV
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 
-支持iOS、iPadOS、tvOS、watchOS、macOS（已上Testflight）
+支持iOS(含CarPlay)、iPadOS、tvOS、watchOS、macOS
 
 <a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 
