@@ -16,7 +16,7 @@ http://148.135.93.213:81/migu.php?id=cctv5
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视IPV4",CCTV5+
 http://148.135.93.213:81/migu.php?id=cctv5p
 #EXTINF:-1,tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视IPV4",CCTV6
-http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901.m3u8
+http://148.135.93.213:81/migu.php?id=cctv6
 #EXTINF:-1,tvg-id="" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视IPV4",CCTV7
 http://148.135.93.213:81/migu.php?id=cctv7
 #EXTINF:-1,tvg-id="" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视IPV4",CCTV8
