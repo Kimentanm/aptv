@@ -96,10 +96,6 @@ http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视-4K",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视-4K",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视-4K",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视-4K",CCTV3-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视-4K",CCTV5-4K
@@ -236,31 +232,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视IPV6",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.eu.org/logo/HBO.png" group-title="影视",HBO家庭影院
-http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1,tvg-id="HBO" tvg-name="HBO" tvg-logo="https://epg.112114.eu.org/logo/HBO.png" group-title="影视",HBO原创电影
-http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1,tvg-id="龙祥电影台" tvg-name="龙祥电影台" tvg-logo="https://epg.112114.eu.org/logo/龙祥电影台.png" group-title="影视",龙祥电影台
-http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.eu.org/logo/CHC高清电影.png" group-title="影视",CHC高清电影
-http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
-http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png" group-title="影视",CHC动作电影
-http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1,tvg-id="星城经典台" tvg-name="星城经典台" tvg-logo="https://epg.112114.eu.org/logo/星城经典台.png" group-title="影视",星城经典台
-https://dwz.mk/v6kgy
-#EXTINF:-1,tvg-id="星城功夫台" tvg-name="星城功夫台" tvg-logo="https://epg.112114.eu.org/logo/星城功夫台.png" group-title="影视",星城功夫台
-https://dwz.mk/mpd4e
-#EXTINF:-1,tvg-id="古龙影院" tvg-name="古龙影院" tvg-logo="https://epg.112114.eu.org/logo/古龙影院.png" group-title="影视",古龙影院
-http://maomao.kandiantv.cn/m3u8.php?/migu/639528313
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.eu.org/logo/上视东方影视.png" group-title="影视",东方影视
-http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
-#EXTINF:-1,tvg-id="过瘾大片" tvg-name="过瘾大片" tvg-logo="https://epg.112114.eu.org/logo/过瘾大片.png" group-title="影视",过瘾大片
-http://maomao.kandiantv.cn/m3u8.php?/migu/627198610
-#EXTINF:-1,tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://epg.112114.eu.org/logo/IPTV经典电影.png" group-title="影视",经典电影
-http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
 
 #EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
