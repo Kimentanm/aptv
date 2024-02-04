@@ -57,51 +57,45 @@ http://59.34.138.45:4000/udp/239.253.43.200:5146
 http://59.34.138.45:4000/udp/239.253.43.201:5146
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
-http://42.194.130.113:88/ysp/?id=bjws
+http://59.34.138.45:4000/udp/239.77.0.51:5146
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="卫视IPV4",东方卫视
-http://42.194.130.113:88/ysp/?id=dfws
+http://59.34.138.45:4000/udp/239.77.0.98:5146
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="卫视IPV4",天津卫视
-http://42.194.130.113:88/ysp/?id=tjws
+http://59.34.138.45:4000/udp/239.77.0.52:5146
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="卫视IPV4",重庆卫视
-http://42.194.130.113:88/ysp/?id=cqws
+http://59.34.138.45:4000/udp/239.77.0.63:5146
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
-http://42.194.130.113:88/ysp/?id=hljws
+http://59.34.138.45:4000/udp/239.77.0.124:5146
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.eu.org/logo/辽宁卫视.png" group-title="卫视IPV4",辽宁卫视
-http://42.194.130.113:88/ysp/?id=lnws
+http://59.34.138.45:4000/udp/239.77.0.57:5146
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="卫视IPV4",河北卫视
-http://42.194.130.113:88/ysp/?id=hbws
+http://59.34.138.45:4000/udp/239.77.0.64:5146
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="卫视IPV4",山东卫视
-http://42.194.130.113:88/ysp/?id=sdws
+http://59.34.138.45:4000/udp/239.77.0.132:5146
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png" group-title="卫视IPV4",安徽卫视
-http://42.194.130.113:88/ysp/?id=ahws
+http://59.34.138.45:4000/udp/239.77.0.50:5146
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
-http://42.194.130.113:88/ysp/?id=hnws
+http://59.34.138.45:4000/udp/239.77.0.61:5146
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视IPV4",湖北卫视
-http://42.194.130.113:88/ysp/?id=hubws
+http://59.34.138.45:4000/udp/239.77.0.56:5146
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
-http://42.194.130.113:88/ysp/?id=hunws
+http://59.34.138.45:4000/udp/239.77.0.127:5146
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png" group-title="卫视IPV4",江西卫视
-http://42.194.130.113:88/ysp/?id=jxws
+http://59.34.138.45:4000/udp/239.77.0.54:5146
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
-http://42.194.130.113:88/ysp/?id=jsws
+http://59.34.138.45:4000/udp/239.77.0.126:5146
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
-http://42.194.130.113:88/ysp/?id=zjws
+http://59.34.138.45:4000/udp/239.77.0.125:5146
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
-http://42.194.130.113:88/ysp/?id=dnws
+http://59.34.138.45:4000/udp/239.77.0.65:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视IPV4",广东卫视
-http://42.194.130.113:88/ysp/?id=gdws
+http://59.34.138.45:4000/udp/239.77.0.2:5146
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
-http://42.194.130.113:88/ysp/?id=szws
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="卫视IPV4",广西卫视
-http://42.194.130.113:88/ysp/?id=gxws
+http://59.34.138.45:4000/udp/239.77.0.55:5146
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
-http://42.194.130.113:88/ysp/?id=gzws
+http://59.34.138.45:4000/udp/239.77.0.59:5146
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
-http://42.194.130.113:88/ysp/?id=scws
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.eu.org/logo/新疆卫视.png" group-title="卫视IPV4",新疆卫视
-http://42.194.130.113:88/ysp/?id=xjws
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.eu.org/logo/海南卫视.png" group-title="卫视IPV4",海南卫视
-http://42.194.130.113:88/ysp/?id=hinws
+http://59.34.138.45:4000/udp/239.77.0.60:5146
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
