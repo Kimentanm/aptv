@@ -8,9 +8,9 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视IPV4",请切换到IPv6分类
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="卫视IPV4",即将更新IPv4频道
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="卫视IPV4",请观看IPv6频道
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV6",CCTV1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
