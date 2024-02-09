@@ -3,14 +3,14 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 36M
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 25FPS 36M
 http://1.14.131.61:5828/cctv4k.php
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 36M
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 50FPS 36M
 http://1.14.131.61:5678/gd4k.php
 
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视IPV4",8K春晚 150M
+#EXTINF:-1 tvg-id="咪咕8K" tvg-name="咪咕8K" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="央视IPV4",8K春晚 150M-1
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视IPV4",8K春晚 150M
+#EXTINF:-1 tvg-id="咪咕8K" tvg-name="咪咕8K" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="央视IPV4",8K春晚 150M-2
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV4",CCTV-1 综合
