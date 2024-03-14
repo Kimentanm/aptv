@@ -8,45 +8,45 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzw.png" group-title="电视伴音",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰香港
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv1.png" group-title="电视伴音",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv1.png" group-title="电视伴音",CCTV-1 综合
 https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv2.png" group-title="电视伴音",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv2.png" group-title="电视伴音",CCTV-2 财经
 https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv3.png" group-title="电视伴音",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv3.png" group-title="电视伴音",CCTV-3 综艺
 https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv4.png" group-title="电视伴音",CCTV-4 (亚洲)
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv4.png" group-title="电视伴音",CCTV-4 (亚洲)
 https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4EUO" tvg-logo="https://epg.112114.eu.org/logo/cctv4.png" group-title="电视伴音",CCTV-4 (欧洲)
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4EUO" tvg-logo="https://epg.112114.eu.org/logo/cctv4.png" group-title="电视伴音",CCTV-4 (欧洲)
 https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="cctvamerica" tvg-logo="https://epg.112114.eu.org/logo/cctv4.png" group-title="电视伴音",CCTV-4 (美洲)
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="cctvamerica" tvg-logo="https://epg.112114.eu.org/logo/cctv4.png" group-title="电视伴音",CCTV-4 (美洲)
 https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv5.png" group-title="电视伴音",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv5.png" group-title="电视伴音",CCTV-5 体育
 https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv5+.png" group-title="电视伴音",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv5+.png" group-title="电视伴音",CCTV-5+ 体育赛事
 https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv6.png" group-title="电视伴音",CCTV-6 电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv6.png" group-title="电视伴音",CCTV-6 电影
 https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv7.png" group-title="电视伴音",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv7.png" group-title="电视伴音",CCTV-7 国防军事
 https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv8.png" group-title="电视伴音",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv8.png" group-title="电视伴音",CCTV-8 电视剧
 https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv9.png" group-title="电视伴音",CCTV-9 纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv9.png" group-title="电视伴音",CCTV-9 纪录
 https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv10.png" group-title="电视伴音",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv10.png" group-title="电视伴音",CCTV-10 科教
 https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv11.png" group-title="电视伴音",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv11.png" group-title="电视伴音",CCTV-11 戏曲
 https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv12.png" group-title="电视伴音",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv12.png" group-title="电视伴音",CCTV-12 社会与法
 https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv13.png" group-title="电视伴音",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv13.png" group-title="电视伴音",CCTV-13 新闻
 https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv14.png" group-title="电视伴音",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv14.png" group-title="电视伴音",CCTV-14 少儿
 https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv15.png" group-title="电视伴音",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv15.png" group-title="电视伴音",CCTV-15 音乐
 https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv16.png" group-title="电视伴音",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv16.png" group-title="电视伴音",CCTV-16奥林匹克
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv17.png" group-title="电视伴音",CCTV-17农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="" tvg-logo="https://epg.112114.eu.org/logo/cctv17.png" group-title="电视伴音",CCTV-17农业农村
 https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/cgtn.png" group-title="电视伴音",CGTN
 http://stream.zeno.fm/ambvmys65rquv
