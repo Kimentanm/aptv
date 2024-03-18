@@ -5,70 +5,46 @@
 
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.eu.org/logo/重温经典.png" group-title="央视IPV4",重温经典
 http://148.135.93.213:81/live.php?id=重温经典
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV4",CCTV1
-http://148.135.93.213:81/live.php?id=CCTV1
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视IPV4",CCTV2
-http://148.135.93.213:81/live.php?id=CCTV2
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视IPV4",CCTV3
-http://148.135.93.213:81/live.php?id=CCTV3
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视IPV4",CCTV4
-http://148.135.93.213:81/live.php?id=CCTV4
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视IPV4",CCTV4欧洲
-http://148.135.93.213:81/live.php?id=CCTV4欧洲
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视IPV4",CCTV4美洲
-http://148.135.93.213:81/live.php?id=CCTV4美洲
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视IPV4",CCTV5
-http://148.135.93.213:81/live.php?id=CCTV5
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png" group-title="央视IPV4",CCTV5+
-http://148.135.93.213:81/live.php?id=CCTV5p
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="央视IPV4",CCTV6
-http://148.135.93.213:81/live.php?id=CCTV6
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="央视IPV4",CCTV7
-http://148.135.93.213:81/live.php?id=CCTV7
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视IPV4",CCTV8
-http://148.135.93.213:81/live.php?id=CCTV8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视IPV4",CCTV9
-http://148.135.93.213:81/live.php?id=CCTV9
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视IPV4",CCTV10
-http://148.135.93.213:81/live.php?id=CCTV10
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="央视IPV4",CCTV11
-http://148.135.93.213:81/live.php?id=CCTV11
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视IPV4",CCTV12
-http://148.135.93.213:81/live.php?id=CCTV12
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视IPV4",CCTV13
-http://148.135.93.213:81/live.php?id=CCTV13
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视IPV4",CCTV14
-http://148.135.93.213:81/live.php?id=CCTV14
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="央视IPV4",CCTV15
-http://148.135.93.213:81/live.php?id=CCTV15
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视IPV4",CCTV16
-http://148.135.93.213:81/live.php?id=CCTV16
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="央视IPV4",CCTV17
-http://148.135.93.213:81/live.php?id=CCTV17
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.eu.org/logo/世界地理.png" group-title="央视IPV4",CCTV世界地理
-http://148.135.93.213:81/live.php?id=世界地理
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.eu.org/logo/兵器科技.png" group-title="央视IPV4",CCTV兵器科技
-http://148.135.93.213:81/live.php?id=兵器科技
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.112114.eu.org/logo/央视台球.png" group-title="央视IPV4",CCTV央视台球
-http://148.135.93.213:81/live.php?id=央视台球
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.112114.eu.org/logo/女性时尚.png" group-title="央视IPV4",CCTV女性时尚
-http://148.135.93.213:81/live.php?id=女性时尚
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png" group-title="央视IPV4",CCTV怀旧剧场
-http://148.135.93.213:81/live.php?id=怀旧剧场
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.112114.eu.org/logo/文化精品.png" group-title="央视IPV4",CCTV文化精品
-http://148.135.93.213:81/live.php?id=文化精品
-#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.112114.eu.org/logo/电视指南.png" group-title="央视IPV4",CCTV电视指南
-http://148.135.93.213:81/live.php?id=电视指南
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png" group-title="央视IPV4",CCTV第一剧场
-http://148.135.93.213:81/live.php?id=第一剧场
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png" group-title="央视IPV4",CCTV风云剧场
-http://148.135.93.213:81/live.php?id=风云剧场
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.112114.eu.org/logo/风云足球.png" group-title="央视IPV4",CCTV风云足球
-http://148.135.93.213:81/live.php?id=风云足球
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.eu.org/logo/风云音乐.png" group-title="央视IPV4",CCTV风云音乐
-http://148.135.93.213:81/live.php?id=风云音乐
-#EXTINF:-1,tvg-id="央视高网" tvg-name="央视高网" tvg-logo="https://epg.112114.eu.org/logo/高尔夫网球.png" group-title="央视IPV4",CCTV高尔夫网球
-http://148.135.93.213:81/live.php?id=央视高网
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视IPV4",CCTV1
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视IPV4",CCTV2
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视IPV4",CCTV3
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视IPV4",CCTV4
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视IPV4",CCTV5
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv58m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV5+" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png" group-title="央视IPV4",CCTV5+
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="央视IPV4",CCTV6
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="央视IPV4",CCTV7
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视IPV4",CCTV8
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视IPV4",CCTV9
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视IPV4",CCTV10
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="央视IPV4",CCTV11
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视IPV4",CCTV12
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视IPV4",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视IPV4",CCTV14
+http://148.135.93.213:81/PLTV/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="央视IPV4",CCTV15
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视IPV4",CCTV16
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="央视IPV4",CCTV17
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视IPV4",CCTV16-4K
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",CCTV-4K
+http://148.135.93.213:81/PLTV/bestv.php?id=cctv4k/15000000
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.eu.org/logo/CGTN.png" group-title="央视IPV4",CGTN英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.eu.org/logo/CGTN.png" group-title="央视IPV4",CGTN纪录
@@ -82,50 +58,56 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.eu.org/logo/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.eu.org/logo/翡翠台.png" group-title="卫视IPV4",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
-http://148.135.93.213:81/live.php?id=东南卫视
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
-http://148.135.93.213:81/live.php?id=北京卫视
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="卫视IPV4",吉林卫视
-http://148.135.93.213:81/live.php?id=吉林卫视
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
-http://148.135.93.213:81/live.php?id=四川卫视
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="卫视IPV4",天津卫视
-http://148.135.93.213:81/live.php?id=天津卫视
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png" group-title="卫视IPV4",安徽卫视
-http://148.135.93.213:81/live.php?id=安徽卫视
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="卫视IPV4",山东卫视
-http://148.135.93.213:81/live.php?id=山东卫视
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视IPV4",广东卫视
-http://148.135.93.213:81/live.php?id=广东卫视
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
-http://148.135.93.213:81/live.php?id=江苏卫视
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png" group-title="卫视IPV4",江西卫视
-http://148.135.93.213:81/live.php?id=江西卫视
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="卫视IPV4",河北卫视
-http://148.135.93.213:81/live.php?id=河北卫视
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
-http://148.135.93.213:81/live.php?id=河南卫视
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
-http://148.135.93.213:81/live.php?id=浙江卫视
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
-http://148.135.93.213:81/live.php?id=深圳卫视
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视IPV4",湖北卫视
-http://148.135.93.213:81/live.php?id=湖北卫视
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
-http://148.135.93.213:81/live.php?id=湖南卫视
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.eu.org/logo/甘肃卫视.png" group-title="卫视IPV4",甘肃卫视
-http://148.135.93.213:81/live.php?id=甘肃卫视
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
-http://148.135.93.213:81/live.php?id=贵州卫视
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.eu.org/logo/辽宁卫视.png" group-title="卫视IPV4",辽宁卫视
-http://148.135.93.213:81/live.php?id=辽宁卫视
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="卫视IPV4",重庆卫视
-http://148.135.93.213:81/live.php?id=重庆卫视
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
-http://148.135.93.213:81/live.php?id=黑龙江卫视
+#EXTINF:-1,tvg-id="" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=zjwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=bjwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.eu.org/logo/辽宁卫视.png" group-title="卫视IPV4",辽宁卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=lnwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png" group-title="卫视IPV4",安徽卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=ahwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=jswshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="卫视IPV4",东方卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="东南卫视" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=dnwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=hunanwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="卫视IPV4",湖北卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="卫视IPV4",广东卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=gdwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="卫视IPV4",广西卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=gxwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=szwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="四川卫视" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=scwshd/8000000
+#EXTINF:-1,tvg-id="" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="卫视IPV4",山东卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=sdws8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=hnwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="卫视IPV4",河北卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=hbwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="江西卫视" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png" group-title="卫视IPV4",江西卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=jxws8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="卫视IPV4",天津卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=tjwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="卫视IPV4",重庆卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=cqws8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=hljwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="卫视IPV4",吉林卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=jlwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="海南卫视" tvg-logo="https://epg.112114.eu.org/logo/海南卫视.png" group-title="卫视IPV4",海南卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="云南卫视" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png" group-title="卫视IPV4",云南卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=ynwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="卫视IPV4",贵州卫视
+http://148.135.93.213:81/PLTV/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视IPV4",五星体育
+http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰卫视中文台.png" group-title="卫视IPV4",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰卫视资讯台.png" group-title="卫视IPV4",凤凰资讯
