@@ -47,30 +47,6 @@ http://148.135.93.213:81/live.php?id=CCTV15
 http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视IPV4",CCTV17
 http://148.135.93.213:81/live.php?id=CCTV17
-#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视IPV4",CCTV世界地理
-http://148.135.93.213:81/live.php?id=世界地理
-#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视IPV4",CCTV兵器科技
-http://148.135.93.213:81/live.php?id=兵器科技
-#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视IPV4",CCTV央视台球
-http://148.135.93.213:81/live.php?id=央视台球
-#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视IPV4",CCTV女性时尚
-http://148.135.93.213:81/live.php?id=女性时尚
-#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视IPV4",CCTV怀旧剧场
-http://148.135.93.213:81/live.php?id=怀旧剧场
-#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视IPV4",CCTV文化精品
-http://148.135.93.213:81/live.php?id=文化精品
-#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视IPV4",CCTV电视指南
-http://148.135.93.213:81/live.php?id=电视指南
-#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视IPV4",CCTV第一剧场
-http://148.135.93.213:81/live.php?id=第一剧场
-#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视IPV4",CCTV风云剧场
-http://148.135.93.213:81/live.php?id=风云剧场
-#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视IPV4",CCTV风云足球
-http://148.135.93.213:81/live.php?id=风云足球
-#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视IPV4",CCTV风云音乐
-http://148.135.93.213:81/live.php?id=风云音乐
-#EXTINF:-1,tvg-id="央视高网" tvg-name="央视高网" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视IPV4",CCTV高尔夫网球
-http://148.135.93.213:81/live.php?id=央视高网
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视IPV4",CGTN英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视IPV4",CGTN纪录
