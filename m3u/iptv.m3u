@@ -7,8 +7,8 @@
 http://148.135.93.213:81/live.php?id=重温经典
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://epg.112114.eu.org/logo/CHC家庭影院.png" group-title="央视IPV4",CHC家庭影院
 http://148.135.93.213:81/live.php?id=CHC家庭影院
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="http://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="央视IPV4",CHC影迷电影
-http://148.135.93.213:81/live.php?id=CHC高清电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="http://epg.112114.eu.org/logo/CHC影迷电影.png" group-title="央视IPV4",CHC影迷电影
+http://148.135.93.213:81/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.112114.eu.org/logo/CHC动作电影.png" group-title="央视IPV4",CHC动作电影
 http://148.135.93.213:81/live.php?id=CHC动作电影
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视IPV4",CCTV1
