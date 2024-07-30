@@ -70,6 +70,8 @@ http://148.135.93.213:81/live.php?id=凤凰中文
 http://148.135.93.213:81/live.php?id=凤凰香港
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
 http://148.135.93.213:81/live.php?id=湖南卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
+http://148.135.93.213:81/live.php?id=浙江卫视
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
 http://148.135.93.213:81/live.php?id=江苏卫视
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视IPV4",陕西卫视
@@ -102,8 +104,6 @@ http://148.135.93.213:81/live.php?id=广西卫视
 http://148.135.93.213:81/live.php?id=河北卫视
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视IPV4",河南卫视
 http://148.135.93.213:81/live.php?id=河南卫视
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
-http://148.135.93.213:81/live.php?id=浙江卫视
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视IPV4",深圳卫视
 http://148.135.93.213:81/live.php?id=深圳卫视
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视IPV4",甘肃卫视
