@@ -229,45 +229,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://assets.livednow.com/logo/厦门卫视.png" group-title="卫视IPV6",厦门卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 
-#EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="IHOT",iHOT爱科幻
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱浪漫.png" group-title="IHOT",iHOT爱浪漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="IHOT",iHOT爱喜剧
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="IHOT",iHOT爱悬疑
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="IHOT",iHOT爱赛车
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱体育" tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="IHOT",iHOT爱体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="IHOT",iHOT爱奇谈
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="IHOT",iHOT爱玩具
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="IHOT",iHOT爱旅行
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="IHOT",iHOT爱幼教
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="IHOT",iHOT爱谍战
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png" group-title="IHOT",iHOT爱历史
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科学.png" group-title="IHOT",iHOT爱科学
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="IHOT",iHOT爱动漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="IHOT",求索动物
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="IHOT",求索记录
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="IHOT",求索科学
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="IHOT",求索生活
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-
 #EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1984
