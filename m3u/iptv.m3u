@@ -45,7 +45,7 @@ http://148.135.93.213:81/live.php?id=CCTV16
 http://148.135.93.213:81/live.php?id=CCTV17
 
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="https://assets.livednow.com/logo/五星体育.png" group-title="卫视IPV4",五星体育
-http://148.135.93.213:81/live.php?id=五星体育
+rtsp://74.48.192.96:8554/wxty
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" http-user-agent="iPhone" group-title="卫视IPV4",凤凰资讯
 http://148.135.93.213:81/phenix.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" http-user-agent="iPhone" group-title="卫视IPV4",凤凰中文
@@ -53,7 +53,7 @@ http://148.135.93.213:81/phenix.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="卫视IPV4",凤凰香港
 http://148.135.93.213:81/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
-http://148.135.93.213:81/live.php?id=湖南卫视
+rtsp://74.48.192.96:8554/hnws
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
 http://148.135.93.213:81/live.php?id=浙江卫视
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视IPV4",江苏卫视
