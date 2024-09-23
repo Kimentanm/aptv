@@ -52,6 +52,8 @@ http://148.135.93.213:81/phenix.php?id=fhzx
 http://148.135.93.213:81/phenix.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" http-user-agent="iPhone" group-title="卫视IPV4",凤凰香港
 http://148.135.93.213:81/phenix.php?id=fhhk
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
+http://148.135.93.213:81/live.php?id=北京卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视IPV4",湖南卫视
 http://148.135.93.213:81/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png" group-title="卫视IPV4",浙江卫视
@@ -68,8 +70,6 @@ http://148.135.93.213:81/bestv.php?id=jxws8m/8000000
 http://148.135.93.213:81/live.php?id=广东卫视
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title="卫视IPV4",东南卫视
 http://148.135.93.213:81/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视IPV4",北京卫视
-http://148.135.93.213:81/bestv.php?id=bjwshd8m/8000000
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视IPV4",吉林卫视
 http://148.135.93.213:81/bestv.php?id=jlwshd8m/8000000
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://assets.livednow.com/logo/四川卫视.png" group-title="卫视IPV4",四川卫视
