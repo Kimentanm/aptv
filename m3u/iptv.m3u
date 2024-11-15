@@ -172,6 +172,8 @@ http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" group-title="卫视IPV6",五星体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV6",北京卫视
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000516
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视IPV6",湖南卫视
