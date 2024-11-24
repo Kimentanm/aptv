@@ -180,7 +180,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV6",CCTV15
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV6",CCTV16
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=
 
