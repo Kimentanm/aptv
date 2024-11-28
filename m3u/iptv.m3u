@@ -39,7 +39,7 @@ http://148.135.93.213:81/live.php?id=CCTV13
 http://148.135.93.213:81/live.php?id=CCTV14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV4",CCTV15
 http://148.135.93.213:81/live.php?id=CCTV15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV4",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="cctv_app_tv" http-header="Uid=b2wkg2lvb7y2hxnj" group-title="央视IPV4",CCTV16
 http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV4",CCTV17
 http://148.135.93.213:81/live.php?id=CCTV17
