@@ -19,11 +19,14 @@
 - 实时获取当前频道预览图
 - 获取频道节目单
 - iCloud同步
+- CarPlay 车载播放
 - AppleTV 版本
 - Mac 桌面版本
 - watchOS 版本
+- visionOS 版本（测试版）
 
 ## 接下来的计划
+- DLNA 投屏
 - 聚合配置
 - 搜索中心
 ……
