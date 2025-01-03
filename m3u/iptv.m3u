@@ -140,31 +140,31 @@ http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV6",CCTV1
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV6",CCTV2
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视IPV6",CCTV3
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视IPV6",CCTV4
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视IPV6",CCTV5
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视IPV6",CCTV5+
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视IPV6",CCTV6
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视IPV6",CCTV7
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031104/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视IPV6",CCTV8
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视IPV6",CCTV9
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视IPV6",CCTV10
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视IPV6",CCTV11
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视IPV6",CCTV12
-http://[2409:8087:5e08:24::2]:6610/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031107/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视IPV6",CCTV13
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视IPV6",CCTV14
@@ -172,7 +172,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006673/index.m3u8?c
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV6",CCTV15
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV6",CCTV16
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
