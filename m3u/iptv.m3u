@@ -239,7 +239,7 @@ http://[2409:8087:74d4:21::2f]/270000001128/9900000058/index.m3u8
 http://[2409:8087:74d4:21::2f]/270000001128/9900000023/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV6",青海卫视
 http://[2409:8087:74d4:21::2f]/270000001128/9900000042/index.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="西藏卫视",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV6",西藏卫视
 http://[2409:8087:74d4:21::2f]/270000001128/9900000043/index.m3u8
 
 #EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="IHOT IPv6",iHOT爱院线
