@@ -145,7 +145,7 @@ http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV6",CCTV2
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视IPV6",CCTV3
-http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视IPV6",CCTV4
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视IPV6",CCTV5
@@ -171,7 +171,7 @@ http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视IPV6",CCTV14
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV6",CCTV15
-http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV6",CCTV16
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17
