@@ -186,7 +186,7 @@ http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视IPV6",东方卫视
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视IPV6",四川卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000025/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV6",天津卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视IPV6",安徽卫视
@@ -202,9 +202,9 @@ http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视IPV6",江西卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000011210/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV6",河北卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000057/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV6",河南卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000027/index.m3u8
+http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031119
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视IPV6",浙江卫视
 http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV6",海南卫视
@@ -218,7 +218,7 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000021220/index.m3u8?l
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV6",东南卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265033/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265033&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视IPV6",贵州卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000036/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000003169/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000003169
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视IPV6",辽宁卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265022/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视IPV6",重庆卫视
@@ -230,9 +230,9 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000031451/index.m3u8?l
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视IPV6",陕西卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040017/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040017
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV6",吉林卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000030/index.m3u8
+http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000031117/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031117
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视IPV6",云南卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000035/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视IPV6",三沙卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV6",青海卫视
@@ -240,13 +240,13 @@ http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/1.m3u8?chann
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视IPV6",新疆卫视
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000029441/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000029441
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视IPV6",厦门卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000058/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266006
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视IPV6",甘肃卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000023/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV6",青海卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000042/index.m3u8
+http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV6",西藏卫视
-http://[2409:8087:74d4:21::2f]/270000001128/9900000043/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 
 #EXTINF:-1 tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="IHOT IPv6",iHOT爱院线
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
