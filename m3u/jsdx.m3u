@@ -131,9 +131,9 @@ rtp://39.49.0.245:8000
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 rtp://39.49.0.167:8000
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K",CCTV4K
 rtp://39.49.0.82:8000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16-4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" group-title="4K",CCTV16-4K
 rtp://39.49.0.109:8000
 #EXTINF:-1,tvg-id="4K跨年直播1" tvg-name="4K跨年直播1" group-title="4K",4K跨年直播1
 rtp://39.49.8.38:8000
