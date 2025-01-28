@@ -3,8 +3,10 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视IPV4",春晚4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视IPV4",春晚4K-1
 http://148.135.93.213:81/live.php?id=春晚1
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视IPV4",春晚4K-2
+http://148.135.93.213:81/live.php?id=春晚2
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视-菁彩声",CCTV4K
 http://148.135.93.213:81/live.php?id=CCTV4K-av3a
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视-菁彩声",CCTV8K
