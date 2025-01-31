@@ -76,7 +76,7 @@ http://148.135.93.213:81/live.php?id=江苏卫视
 http://148.135.93.213:81/live.php?id=陕西卫视
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视IPV4",湖北卫视
 http://148.135.93.213:81/live.php?id=湖北卫视
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视IPV4",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视IPV4",内蒙古卫视
 http://148.135.93.213:81/live.php?id=内蒙古卫视
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视IPV4",江西卫视
 http://148.135.93.213:81/live.php?id=江西卫视
