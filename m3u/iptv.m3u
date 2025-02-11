@@ -92,6 +92,8 @@ http://148.135.93.213:81/live.php?id=东方卫视
 http://148.135.93.213:81/live.php?id=西藏卫视
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视IPV4",新疆卫视
 http://148.135.93.213:81/live.php?id=新疆卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视IPV4",青海卫视
+http://148.135.93.213:81/live.php?id=青海卫视
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV4",东南卫视
 http://148.135.93.213:81/live.php?id=东南卫视
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV4",吉林卫视
