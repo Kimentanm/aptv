@@ -88,6 +88,10 @@ http://148.135.93.213:81/live.php?id=江西卫视
 http://148.135.93.213:81/live.php?id=广东卫视
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视IPV4",东方卫视
 http://148.135.93.213:81/live.php?id=东方卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV4",西藏卫视
+http://148.135.93.213:81/live.php?id=西藏卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视IPV4",新疆卫视
+http://148.135.93.213:81/live.php?id=新疆卫视
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV4",东南卫视
 http://148.135.93.213:81/live.php?id=东南卫视
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV4",吉林卫视
@@ -124,8 +128,6 @@ http://148.135.93.213:81/live.php?id=黑龙江卫视
 http://148.135.93.213:81/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213:81/live.php?id=大湾区卫视
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV4",西藏卫视
-http://148.135.93.213:81/live.php?id=西藏卫视
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视-菁彩声",CCTV4K
 http://148.135.93.213:81/live.php?id=CCTV4K-av3a
