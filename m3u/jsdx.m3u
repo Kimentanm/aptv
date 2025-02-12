@@ -118,10 +118,6 @@ rtp://239.49.0.82:8000
 rtp://239.49.0.109:8000
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="4K",欢笑剧场-4K
 rtp://239.49.8.106:8000
-#EXTINF:-1 tvg-id="4K跨年直播1" tvg-name="4K跨年直播1" group-title="4K",4K跨年直播1
-rtp://239.49.8.38:8000
-#EXTINF:-1 tvg-id="4K跨年直播2" tvg-name="4K跨年直播2" group-title="4K",4K跨年直播2
-rtp://239.49.8.82:8000
 
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" group-title="数字",兵器科技
 rtp://239.49.8.88:8000
