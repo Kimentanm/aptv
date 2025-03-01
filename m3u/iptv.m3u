@@ -60,11 +60,11 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视IPV4",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-header="User-Agent=cctv_app_tv;Uid=zzf9538hj31inn91;X-Forward-For=114.216.61.8" group-title="央视-菁彩声",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-header="User-Agent=cctv_app_tv;Uid=rc0j7d7cfhijjl4p;X-Forward-For=114.216.61.8" group-title="央视-菁彩声",CCTV4K
 http://148.135.93.213/live.php?id=CCTV4K-av3a
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-header="User-Agent=cctv_app_tv;Uid=zzf9538hj31inn91;X-Forward-For=114.216.61.8" group-title="央视-菁彩声",CCTV16-4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-header="User-Agent=cctv_app_tv;Uid=rc0j7d7cfhijjl4p;X-Forward-For=114.216.61.8" group-title="央视-菁彩声",CCTV16-4K
 http://148.135.93.213/live.php?id=CCTV16-4K-av3a
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-header="User-Agent=cctv_app_tv;Uid=zzf9538hj31inn91;X-Forward-For=114.216.61.8" group-title="央视-菁彩声",CCTV8K
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-header="User-Agent=cctv_app_tv;Uid=rc0j7d7cfhijjl4p;X-Forward-For=114.216.61.8" group-title="央视-菁彩声",CCTV8K
 http://148.135.93.213/live.php?id=CCTV8K-av3a
 #EXTINF:-1 group-title="央视-菁彩声",测试视频 7.1.4 12声道
 https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
