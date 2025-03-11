@@ -1,0 +1,331 @@
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/gxyd.m3u
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV-1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV-1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV-2
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV-2
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV-3
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV-3
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视",CCTV-4
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视",CCTV-4
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV-5
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV-5
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV-5
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视",CCTV5+
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视",CCTV5+
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视",CCTV-6
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视",CCTV-6
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV-7
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV-7
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视",CCTV-8
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视",CCTV-8
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV-9
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV-9
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV-10
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV-10
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV-11
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV-11
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV-12
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV-12
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV-13
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV-13
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视",CCTV-14
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视",CCTV-14
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视",CCTV-15
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视",CCTV-15
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV-16
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV-16
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV-17
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV-17
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" group-title="其他",纯享4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="珠江" tvg-name="珠江" group-title="卫视",珠江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225951/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="柳州新闻综合" tvg-name="柳州新闻综合" group-title="其他",柳州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="柳州科教" tvg-name="柳州科教" group-title="其他",柳州科教
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="贺州综合" tvg-name="贺州综合" group-title="其他",贺州综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="河池科教生活" tvg-name="河池科教生活" group-title="其他",河池科教生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226305/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="河池新闻综合" tvg-name="河池新闻综合" group-title="其他",河池新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="玉林公共" tvg-name="玉林公共" group-title="其他",玉林公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="玉林新闻综合" tvg-name="玉林新闻综合" group-title="其他",玉林新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" group-title="其他",南宁新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="南宁文旅生活" tvg-name="南宁文旅生活" group-title="其他",南宁文旅生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="南宁公共" tvg-name="南宁公共" group-title="其他",南宁公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="南宁影视娱乐" tvg-name="南宁影视娱乐" group-title="其他",南宁影视娱乐
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="北海新闻" tvg-name="北海新闻" group-title="其他",北海新闻
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="北海经济科教" tvg-name="北海经济科教" group-title="其他",北海经济科教
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="百色综合" tvg-name="百色综合" group-title="其他",百色综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226322/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="来宾电视台综合" tvg-name="来宾电视台综合" group-title="其他",来宾电视台综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="梧州新闻综合" tvg-name="梧州新闻综合" group-title="其他",梧州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226313/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="梧州教育生活" tvg-name="梧州教育生活" group-title="其他",梧州教育生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226316/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="防城港新闻综合" tvg-name="防城港新闻综合" group-title="其他",防城港新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226312/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="防城港公共" tvg-name="防城港公共" group-title="其他",防城港公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226328/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="崇左综合" tvg-name="崇左综合" group-title="其他",崇左综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226314/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" group-title="其他",桂林新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="桂林科教旅游" tvg-name="桂林科教旅游" group-title="其他",桂林科教旅游
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="桂林公共频道" tvg-name="桂林公共频道" group-title="其他",桂林公共频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="贵港新闻综合" tvg-name="贵港新闻综合" group-title="其他",贵港新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226300/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="贵港科教生活" tvg-name="贵港科教生活" group-title="其他",贵港科教生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="钦州新闻综合" tvg-name="钦州新闻综合" group-title="其他",钦州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="钦州公共影视" tvg-name="钦州公共影视" group-title="其他",钦州公共影视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广西综艺旅游" tvg-name="广西综艺旅游" group-title="其他",广西综艺旅游
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广西都市" tvg-name="广西都市" group-title="其他",广西都市
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广西新闻" tvg-name="广西新闻" group-title="其他",广西新闻
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="广西影视" tvg-name="广西影视" group-title="其他",广西影视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视藏语频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" group-title="北京",北京纪实
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" group-title="卫视",康巴卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226270/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" group-title="卫视",延边卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226273/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="安多卫视标清4M" tvg-name="安多卫视标清4M" group-title="卫视",安多卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226271/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他",金鹰纪实
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他",金鹰卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" group-title="其他",嘉佳卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" group-title="其他",炫动卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225711/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="其他",卡酷少儿
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="其他",优漫卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" group-title="其他",中国教育-1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="中国教育2套标清4M" tvg-name="中国教育2套标清4M" group-title="其他",中国教育2套标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="中国教育4套" tvg-name="中国教育4套" group-title="其他",中国教育4套
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" group-title="山东",山东教育
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" group-title="其他",高尔夫标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="精品萌宠" tvg-name="精品萌宠" group-title="其他",精品萌宠
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="其他",黑莓电影
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="其他",黑莓动画
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="哒啵赛事" tvg-name="哒啵赛事" group-title="其他",哒啵赛事
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="哒啵电竞" tvg-name="哒啵电竞" group-title="其他",哒啵电竞
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="其他",睛彩竞技
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="其他",睛彩篮球
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="其他",睛彩青少
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="其他",睛彩广场舞
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" group-title="其他",古装剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="其他",动作电影
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" group-title="其他",军旅剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" group-title="其他",家庭剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" group-title="其他",惊悚悬疑
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" group-title="其他",热播精选
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" group-title="其他",精品综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" group-title="其他",爱情喜剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" group-title="其他",精品大剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" group-title="其他",中国功夫
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" group-title="其他",金牌综艺
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" group-title="其他",军事评论
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" group-title="其他",农业致富
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" group-title="其他",精品纪录
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" group-title="其他",怡伴健康
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225684/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" group-title="其他",精品体育
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" group-title="其他",潮妈辣婆
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" group-title="其他",炫舞未来
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
