@@ -109,6 +109,10 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226265/1/index.m3u8?fmt=t
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225666/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN记录" group-title="央视",CGTN记录
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225670/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视4K
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226315/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
@@ -125,8 +129,6 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=t
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
