@@ -44,6 +44,8 @@ rtp://239.49.0.9:8064
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视",	CGTN俄语
 tp://239.49.0.111:8000
 
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视;4K",北京卫视4K
+rtp://239.49.0.42:8000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
 rtp://239.49.8.138:6000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
@@ -111,8 +113,6 @@ rtp://239.49.0.178:8000
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
 rtp://239.49.0.177:8000
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视4K
-rtp://239.49.0.42:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K",CCTV4K
 rtp://239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="4K",CCTV16-4K
