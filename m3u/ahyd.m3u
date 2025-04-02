@@ -1,0 +1,373 @@
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ahyd.m3u
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV-1 综合
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV-2 财经
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV-5 体育
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视",CCTV-6 电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV-9 记录
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV-9 记录
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV-10 科教
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV-11 戏曲
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV-12 社会与法
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视",CCTV-14 少儿
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视",CCTV-15 音乐
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV-16 奥林匹克
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV-17 农业农村
+http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" group-title="央视",CGTN
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-news/1.m3u8
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" group-title="央视",CGTN
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
+#EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" group-title="央视",CETV-1
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
+#EXTINF:-1,tvg-id="CETV-2" tvg-name="CETV-2" group-title="央视",CETV-2
+http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
+#EXTINF:-1,tvg-id="CETV-4" tvg-name="CETV-4" group-title="央视",CETV-4
+http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="央视",CHC动作电影
+http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="央视",CHC家庭影院
+http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="央视",CHC影迷电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="央视",CHC影迷电影
+http://120.210.193.151:8006/120000001002/XMTymdy/1.m3u8
+#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" group-title="央视",CCTV-电视指南
+http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" group-title="央视",CCTV-央视文化精品
+http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" group-title="央视",CCTV-央视台球
+http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" group-title="央视",CCTV-女性时尚
+http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" group-title="央视",CCTV-怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" group-title="央视",CCTV-风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" group-title="央视",CCTV-第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" group-title="央视",CCTV-兵器科技
+http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" group-title="央视",CCTV-风云足球
+http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" group-title="央视",CCTV-风云音乐
+http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+#EXTINF:-1,tvg-id="CCTV-高尔夫·网球" tvg-name="CCTV-高尔夫·网球" group-title="央视",CCTV-高尔夫·网球
+http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" group-title="央视",CCTV-世界地理
+http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-beijingstv/1.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/beijingstv/1.m3u8
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
+http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-dongnanstv/1.m3u8
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
+http://120.210.193.151:8006/120000001002/XMTgswshd/index.m3u8
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/gansustv/1.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/1.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangdongstv/1.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guangxistv/1.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-guizhoustv/1.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视
+http://120.210.193.151:8006/120000001002/XMThainanwshd/index.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hebeistv/1.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
+http://120.210.193.151:8006/120000001002/XMThenanwshd/index.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/henanstv/1.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-hubeistv/1.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hunanstv/1.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
+http://120.210.193.151:8006/120000001002/XMTjlwshd/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-jiangsustv/1.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiangsustv/1.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
+http://120.210.193.151:8006/120000001002/XMTjiangxiwshd/index.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiangxistv/1.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-liaoningstv/1.m3u8
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/neimenggustv/1.m3u8
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ningxiastv/1.m3u8
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/qinghaistv/1.m3u8
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
+http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
+http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
+http://120.210.193.151:8006/120000001002/XMTshandongwshd/index.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongstv/1.m3u8
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxistv/1.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shanxi1stv/1.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/1.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shenzhenstv/1.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-sichuanstv/1.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/1.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/tianjinstv/1.m3u8
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xizangstv/1.m3u8
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xinjiangstv/1.m3u8
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/yunnanstv/1.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-zhejiangstv/1.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/zhejiangstv/1.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
+http://120.210.193.151:8006/120000001002/XMTchongqingwshd/index.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/chongqingstv/1.m3u8
+#EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" group-title="安徽",安徽导视
+http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+#EXTINF:-1,tvg-id="安徽公共" tvg-name="安徽公共" group-title="安徽",安徽公共
+http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+#EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" group-title="安徽",安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+#EXTINF:-1,tvg-id="安徽影视" tvg-name="安徽影视" group-title="安徽",安徽影视
+http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+#EXTINF:-1,tvg-id="安徽经济生活" tvg-name="安徽经济生活" group-title="安徽",安徽经济生活
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:-1,tvg-id="安徽农业·科教" tvg-name="安徽农业·科教" group-title="安徽",安徽农业·科教
+http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+#EXTINF:-1,tvg-id="安徽综艺·体育" tvg-name="安徽综艺·体育" group-title="安徽",安徽综艺·体育
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+#EXTINF:-1,tvg-id="池州新闻" tvg-name="池州新闻" group-title="其他",池州新闻
+http://120.210.193.151:8006/120000001002/XMTczxw/1.m3u8
+#EXTINF:-1,tvg-id="池州文教" tvg-name="池州文教" group-title="其他",池州文教
+http://120.210.193.151:8006/120000001002/XMTczwj/1.m3u8
+#EXTINF:-1,tvg-id="合肥新闻" tvg-name="合肥新闻" group-title="其他",合肥新闻
+http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+#EXTINF:-1,tvg-id="安庆新闻" tvg-name="安庆新闻" group-title="其他",安庆新闻
+http://120.210.193.151:8006/120000001002/XMTaqxw/1.m3u8
+#EXTINF:-1,tvg-id="蚌埠新闻" tvg-name="蚌埠新闻" group-title="其他",蚌埠新闻
+http://120.210.193.151:8006/120000001002/XMTbbxw/1.m3u8
+#EXTINF:-1,tvg-id="亳州农村" tvg-name="亳州农村" group-title="其他",亳州农村
+http://120.210.193.151:8006/120000001002/XMTbznc/1.m3u8
+#EXTINF:-1,tvg-id="亳州新闻" tvg-name="亳州新闻" group-title="其他",亳州新闻
+http://120.210.193.151:8006/120000001002/XMTbzxw/1.m3u8
+#EXTINF:-1,tvg-id="阜阳都市" tvg-name="阜阳都市" group-title="其他",阜阳都市
+http://120.210.193.151:8006/120000001002/XMTfyds/1.m3u8
+#EXTINF:-1,tvg-id="阜阳公共" tvg-name="阜阳公共" group-title="其他",阜阳公共
+http://120.210.193.151:8006/120000001002/XMTfygg/1.m3u8
+#EXTINF:-1,tvg-id="阜阳教育" tvg-name="阜阳教育" group-title="其他",阜阳教育
+http://120.210.193.151:8006/120000001002/XMTfyjy/1.m3u8
+#EXTINF:-1,tvg-id="阜阳新闻" tvg-name="阜阳新闻" group-title="其他",阜阳新闻
+http://120.210.193.151:8006/120000001002/XMTfyxw/1.m3u8
+#EXTINF:-1,tvg-id="滁州新闻" tvg-name="滁州新闻" group-title="其他",滁州新闻
+http://120.210.193.151:8006/120000001002/XMTchzxw/1.m3u8
+#EXTINF:-1,tvg-id="淮北新闻" tvg-name="淮北新闻" group-title="其他",淮北新闻
+http://120.210.193.151:8006/120000001002/XMThbxw/1.m3u8
+#EXTINF:-1,tvg-id="淮南新闻" tvg-name="淮南新闻" group-title="其他",淮南新闻
+http://120.210.193.151:8006/120000001002/XMThnxw/1.m3u8
+#EXTINF:-1,tvg-id="黄山公共" tvg-name="黄山公共" group-title="其他",黄山公共
+http://120.210.193.151:8006/120000001002/XMThsgg/1.m3u8
+#EXTINF:-1,tvg-id="黄山新闻" tvg-name="黄山新闻" group-title="其他",黄山新闻
+http://120.210.193.151:8006/120000001002/XMThsxw/1.m3u8
+#EXTINF:-1,tvg-id="屯溪融媒" tvg-name="屯溪融媒" group-title="其他",屯溪融媒
+http://120.210.193.151:8006/120000001002/XMTtxrm/1.m3u8
+#EXTINF:-1,tvg-id="六安新闻" tvg-name="六安新闻" group-title="其他",六安新闻
+http://120.210.193.151:8006/120000001002/XMTlaxw/1.m3u8
+#EXTINF:-1,tvg-id="六安新闻" tvg-name="六安新闻" group-title="其他",六安新闻
+http://120.210.193.151:8006/120000001002/XMTLA_xwzh/index.m3u8
+#EXTINF:-1,tvg-id="宿州新闻" tvg-name="宿州新闻" group-title="其他",宿州新闻
+http://120.210.193.151:8006/120000001002/XMTszxw/1.m3u8
+#EXTINF:-1,tvg-id="铜陵新闻" tvg-name="铜陵新闻" group-title="其他",铜陵新闻
+http://120.210.193.151:8006/120000001002/XMTtlxw/1.m3u8
+#EXTINF:-1,tvg-id="芜湖公共" tvg-name="芜湖公共" group-title="其他",芜湖公共
+http://120.210.193.151:8006/120000001002/XMTwhgg/1.m3u8
+#EXTINF:-1,tvg-id="芜湖教育" tvg-name="芜湖教育" group-title="其他",芜湖教育
+http://120.210.193.151:8006/120000001002/XMTwhjy/1.m3u8
+#EXTINF:-1,tvg-id="芜湖生活" tvg-name="芜湖生活" group-title="其他",芜湖生活
+http://120.210.193.151:8006/120000001002/XMTwhsh/1.m3u8
+#EXTINF:-1,tvg-id="芜湖新闻" tvg-name="芜湖新闻" group-title="其他",芜湖新闻
+http://120.210.193.151:8006/120000001002/XMTwhxxw/1.m3u8
+#EXTINF:-1,tvg-id="芜湖新闻" tvg-name="芜湖新闻" group-title="其他",芜湖新闻
+http://120.210.193.151:8006/120000001002/XMTwhxw/1.m3u8
+#EXTINF:-1,tvg-id="宣城新闻" tvg-name="宣城新闻" group-title="其他",宣城新闻
+http://120.210.193.151:8006/120000001002/XMTxcxw/1.m3u8
+#EXTINF:-1,tvg-id="马鞍山公共" tvg-name="马鞍山公共" group-title="其他",马鞍山公共
+http://120.210.193.151:8006/120000001002/XMTmasgg/1.m3u8
+#EXTINF:-1,tvg-id="马鞍山新闻" tvg-name="马鞍山新闻" group-title="其他",马鞍山新闻
+http://120.210.193.151:8006/120000001002/XMTmasxw/1.m3u8
+#EXTINF:-1,tvg-id="霍邱频道" tvg-name="霍邱频道" group-title="其他",霍邱频道
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8
+#EXTINF:-1,tvg-id="霍山新闻" tvg-name="霍山新闻" group-title="其他",霍山新闻
+http://120.210.193.151:8006/120000001002/XMTah_lahsxw/1.m3u8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" group-title="其他",茶频道
+http://120.210.193.151:8006/120000001002/XMTcha/1.m3u8
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" group-title="其他",梨园
+http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" group-title="其他",文物
+http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" group-title="其他",武术
+http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
+#EXTINF:-1,tvg-id="快乐购" tvg-name="快乐购" group-title="其他",快乐购
+http://120.210.193.151:8006/120000001002/XMTGW_klg/index.m3u8
+#EXTINF:-1,tvg-id="优购物" tvg-name="优购物" group-title="其他",优购物
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-yougw/1.m3u8
+#EXTINF:-1,tvg-id="徽生活" tvg-name="徽生活" group-title="其他",徽生活
+http://120.210.193.151:8006/120000001002/GDhuish/index.m3u8
+#EXTINF:-1,tvg-id="好享购物" tvg-name="好享购物" group-title="其他",好享购物
+http://120.210.193.151:8006/120000001002/XMTGW_hxg/1.m3u8
+#EXTINF:-1,tvg-id="央广购物" tvg-name="央广购物" group-title="其他",央广购物
+http://120.210.193.151:8006/120000001002/XMTGW_yggw/index.m3u8
+#EXTINF:-1,tvg-id="家有购物" tvg-name="家有购物" group-title="其他",家有购物
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-jiayougw/1.m3u8
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" group-title="其他",足球频道
+http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" group-title="其他",爱情喜剧
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/aiqingxj/1.m3u8
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="其他",黑莓电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdianying/1.m3u8
+#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="其他",黑莓动画
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV超级电视剧" tvg-name="NEWTV超级电视剧" group-title="其他",超级电视剧
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV08/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV超级电影" tvg-name="NEWTV超级电影" group-title="其他",超级电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV06/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" group-title="其他",超级体育
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV05/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" group-title="其他",超级综艺
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-NEWTV03/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" group-title="其他",古装剧场
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guzhuangjc/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" group-title="其他",潮妈辣婆
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-1500k-720P-cmlapo/1.m3u8
+#EXTINF:-1,tvg-id="哒啵赛事" tvg-name="哒啵赛事" group-title="其他",哒啵赛事
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/wmyx/1.m3u8
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" group-title="其他",东方财经
+http://120.210.193.151:8006/120000001002/XMTdfcj/1.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="其他",动漫秀场
+http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="其他",动作电影
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1,tvg-id="风尚购物" tvg-name="风尚购物" group-title="其他",风尚购物
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/fengshanggw/1.m3u8
+#EXTINF:-1,tvg-id="海豚健康" tvg-name="海豚健康" group-title="其他",海豚健康
+http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
+#EXTINF:-1,tvg-id="海豚少儿" tvg-name="海豚少儿" group-title="其他",海豚少儿
+http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
+#EXTINF:-1,tvg-id="海豚生活" tvg-name="海豚生活" group-title="其他",海豚生活
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/pltv-htsh/1.m3u8
+#EXTINF:-1,tvg-id="海豚影视" tvg-name="海豚影视" group-title="其他",海豚影视
+http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" group-title="其他",家庭剧场
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiatingjc/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" group-title="其他",金牌综艺
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/saishijx/1.m3u8
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" group-title="其他",金色频道
+http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" group-title="其他",惊悚悬疑
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingsongxy/1.m3u8
+#EXTINF:-1,tvg-id="睛彩安徽" tvg-name="睛彩安徽" group-title="安徽",睛彩安徽
+http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8
+#EXTINF:-1,tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" group-title="其他",精品大剧
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jdaju/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" group-title="其他",精品纪录
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jingpinjl/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" group-title="其他",精品体育
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV精品综合" tvg-name="NEWTV精品综合" group-title="其他",精品综合
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/mingxingdp/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" group-title="其他",军旅剧场
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junlvjc/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" group-title="其他",军事评论
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/junshipl/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV农业致富" tvg-name="NEWTV农业致富" group-title="其他",农业致富
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" group-title="其他",七彩戏剧
+http://120.210.193.151:8006/120000001002/XMTqcxj/1.m3u8
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="其他",快乐垂钓
+http://120.210.193.151:8006/120000001002/XMTklcd/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" group-title="其他",热播精选
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xiqumd/1.m3u8
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" group-title="山东",山东教育
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/shandongjy/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV武搏世界" tvg-name="NEWTV武搏世界" group-title="其他",武搏世界
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
+#EXTINF:-1,tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" group-title="其他",怡伴健康
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/1.m3u8
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="其他",优漫卡通
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" group-title="其他",炫动卡通
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="其他",卡酷少儿
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他",金鹰卡通
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1,tvg-id="咪咕冬奥冰上" tvg-name="咪咕冬奥冰上" group-title="其他",咪咕冬奥冰上
+http://120.210.193.151:8006/120000001002/HD-8000k-1080P-migudongao4/1.m3u8
+#EXTINF:-1,tvg-id="咪咕冬奥雪上" tvg-name="咪咕冬奥雪上" group-title="其他",咪咕冬奥雪上
+http://120.210.193.151:8006/120000001002/HD-8000k-1080P-migudongao5/1.m3u8
+#EXTINF:-1,tvg-id="咪咕冬奥直击" tvg-name="咪咕冬奥直击" group-title="其他",咪咕冬奥直击
+http://120.210.193.151:8006/120000001002/HD-8000k-1080P-migudongao6/1.m3u8
+#EXTINF:-1,tvg-id="咪咕精彩足球" tvg-name="咪咕精彩足球" group-title="其他",咪咕精彩足球
+http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8
+#EXTINF:-1,tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" group-title="其他",咪咕综合体育
+http://120.210.193.151:8006/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
+#EXTINF:-1,tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" group-title="其他",咪咕全民热练
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8000k-1080P-quanminrl/1.m3u8
