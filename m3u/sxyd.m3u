@@ -3,6 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/sxyd.m3u
 
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227140/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225548/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
@@ -249,6 +251,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226318/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225513/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" group-title="其他",精品大剧
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225519/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="央视",北京卫视4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225511/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
