@@ -9,8 +9,6 @@ http://148.135.93.213/live.php?id=重温经典
 http://148.135.93.213/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="央视IPV4",CHC动作电影
 http://148.135.93.213/live.php?id=CHC动作电影
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="央视IPV4",CHC影迷电影
-http://148.135.93.213/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV4",CCTV1
 http://148.135.93.213/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV4",CCTV2
