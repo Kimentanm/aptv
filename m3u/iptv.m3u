@@ -102,7 +102,7 @@ http://148.135.93.213/live.php?id=吉林卫视
 http://148.135.93.213/live.php?id=四川卫视
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV4",天津卫视
 http://148.135.93.213/live.php?id=天津卫视
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视IPV4",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" http-user-agent="iPhone" http-referer="https://www.ahtv.cn/" group-title="卫视IPV4",安徽卫视
 http://148.135.93.213/live.php?id=安徽卫视
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视IPV4",山东卫视
 http://148.135.93.213/live.php?id=山东卫视
