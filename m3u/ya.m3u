@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1673464127" group-title="英雄联盟", 虎牙英雄联盟赛事
 http://148.135.93.213:81/live/huya/660000?quality=30000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/cb/9d859ba1a87431f0ec20f57f3ccfa4_180_135.jpg?1591180682" group-title="英雄联盟", kRYST4L
+http://148.135.93.213:81/live/huya/222523
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="天天吃鸡", 托马斯CzH
 http://148.135.93.213:81/live/huya/20641
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="英雄联盟", Zz1tai姿态
