@@ -133,6 +133,10 @@ http://148.135.93.213/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
 http://148.135.93.213/live.php?id=大湾区卫视
 
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="4K8K频道",北京卫视-4K
+http://148.135.93.213/live.php?id=北京卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="4K8K频道",深圳卫视-4K
+http://148.135.93.213/live.php?id=深圳卫视
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="4K8K频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png",北京纪实科教8K
 http://148.135.93.213/brtv8k.php
 
