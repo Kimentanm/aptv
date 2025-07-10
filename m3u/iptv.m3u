@@ -80,7 +80,7 @@ http://118.89.87.74:88/live.php?id=北京卫视
 http://118.89.87.74:88/live.php?id=深圳卫视
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",浙江卫视
 http://118.89.87.74:88/live.php?id=浙江卫视
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" http-user-agent="AptvPlayer-UA" http-header="Referer=https://litchi-play-encrypted-site.jstv.com/" group-title="卫视IPV4",江苏卫视
 http://118.89.87.74:88/live.php?id=江苏卫视
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",陕西卫视
 http://118.89.87.74:88/live.php?id=陕西卫视
