@@ -72,7 +72,7 @@ http://101.35.240.114:88/phenix.php?id=fhzw
 http://101.35.240.114:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",香港卫视
 http://101.35.240.114:88/live.php?id=香港卫视
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="卫视IPV4",湖南卫视
 http://101.35.240.114:88/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",北京卫视
 http://101.35.240.114:88/live.php?id=北京卫视
