@@ -3,12 +3,6 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视IPV4",CHC家庭影院
-http://74.48.192.96:82/live.php?id=CHC家庭影院
-#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CHC动作电影
-http://101.35.240.114:88/live.php?id=CHC动作电影
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="央视IPV4",CHC影迷电影
-http://74.48.192.96:82/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV4",CCTV2
@@ -57,6 +51,12 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视IPV4",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="央视IPV4",CHC家庭影院
+http://74.48.192.96:82/live.php?id=CHC家庭影院
+#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CHC动作电影
+http://101.35.240.114:88/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="央视IPV4",CHC影迷电影
+http://74.48.192.96:82/live.php?id=CHC影迷电影
 
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
