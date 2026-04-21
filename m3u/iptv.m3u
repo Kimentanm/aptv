@@ -137,7 +137,7 @@ http://101.35.240.114:88/live.php?id=大湾区卫视
 http://101.35.240.114:88/live.php?id=北京卫视
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" http-user-agent="AptvPlayer-UA" group-title="4K8K频道",深圳卫视4K
 http://101.35.240.114:88/live.php?id=深圳卫视4K
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" group-title="4K8K频道",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" http-user-agent="aliplayer" http-referer="http://live.jstv.com/" group-title="4K8K频道",江苏卫视4K
 http://101.35.240.114:88/live.php?id=江苏卫视4K
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" http-user-agent="aliplayer" group-title="4K8K频道",浙江卫视4K
 http://101.35.240.114:88/live.php?id=浙江卫视4K
