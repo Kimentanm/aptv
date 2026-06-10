@@ -3,6 +3,15 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5
+http://101.35.240.114:88/live.php?id=CCTV5
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5+
+http://101.35.240.114:88/live.php?id=CCTV5p
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="央视IPV4",CCTV16
+http://101.35.240.114:88/live.php?id=CCTV16
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV4K
+http://101.35.240.114:88/live.php?id=CCTV4K
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV2
@@ -11,10 +20,6 @@ http://101.35.240.114:88/live.php?id=CCTV2
 http://101.35.240.114:88/live.php?id=CCTV3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV4
 http://101.35.240.114:88/live.php?id=CCTV4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5
-http://101.35.240.114:88/live.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5+
-http://101.35.240.114:88/live.php?id=CCTV5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV6
 http://101.35.240.114:88/live.php?id=CCTV6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV7
@@ -35,8 +40,6 @@ http://101.35.240.114:88/live.php?id=CCTV13
 http://101.35.240.114:88/live.php?id=CCTV14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV15
 http://101.35.240.114:88/live.php?id=CCTV15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="央视IPV4",CCTV16
-http://101.35.240.114:88/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV17
 http://101.35.240.114:88/live.php?id=CCTV17
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视IPV4",CGTN英语
