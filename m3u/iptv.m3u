@@ -3,13 +3,13 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="iPhone" group-title="央视IPV4",CCTV5
 http://101.35.240.114:88/live.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="iPhone" group-title="央视IPV4",CCTV5+
 http://101.35.240.114:88/live.php?id=CCTV5p
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="央视IPV4",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="iPhone" http-referer="https:/aptv.app/" group-title="央视IPV4",CCTV16
 http://101.35.240.114:88/live.php?id=CCTV16
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="iPhone" group-title="央视IPV4",CCTV4K
 http://101.35.240.114:88/live.php?id=CCTV4K
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
