@@ -3,7 +3,7 @@
 
 支持iOS(含CarPlay)、iPadOS、tvOS、watchOS、macOS
 
-<a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
+<a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com/image/202207141215375.png' /></a>
 
 ## TG交流群
 
@@ -52,30 +52,30 @@
 
 ## tvOS截图
 ### 频道列表
-<img src="https://img.whalenas.com:283/image/202207040045507.jpeg"/>
+<img src="https://img.whalenas.com/image/202207040045507.jpeg"/>
 
 ### 频道分类
-<img src="https://img.whalenas.com:283/image/202207040045040.jpeg"/>
+<img src="https://img.whalenas.com/image/202207040045040.jpeg"/>
 
 ### 设置页面
-<img src="https://img.whalenas.com:283/image/202207040045038.jpeg"/>
+<img src="https://img.whalenas.com/image/202207040045038.jpeg"/>
 
 ## macOS截图
-<img src="https://img.whalenas.com:283/image/202302010935657.png"/>
-<img src="https://img.whalenas.com:283/image/202302010936574.png"/>
+<img src="https://img.whalenas.com/image/202302010935657.png"/>
+<img src="https://img.whalenas.com/image/202302010936574.png"/>
 
 ## watchOS截图
 ### 频道列表
-<img src="https://img.whalenas.com:283/image/202302010938951.png" width="500"/>
+<img src="https://img.whalenas.com/image/202302010938951.png" width="500"/>
 
 ### 收藏
-<img src="https://img.whalenas.com:283/image/202302010939520.png" width="500"/>
+<img src="https://img.whalenas.com/image/202302010939520.png" width="500"/>
 
 ### 配置页面
-<img src="https://img.whalenas.com:283/image/202302010939347.png" width="500"/>
+<img src="https://img.whalenas.com/image/202302010939347.png" width="500"/>
 
 ### 播放页面
-<img src="https://img.whalenas.com:283/image/202302010941968.png" width="500"/>
+<img src="https://img.whalenas.com/image/202302010941968.png" width="500"/>
 
 ## 测试源
 > 以下直播源仅用于产品测试使用，禁止传播  
